@@ -1,5 +1,8 @@
 # uCrop - Image Cropping Library for Android
 
+## This repo tweaked for Mozzet Android application (NoonDate, etc...). 
+## Use at your own risk.
+
 #### This project aims to provide an ultimate and flexible image cropping experience. Made in [Yalantis] (https://yalantis.com/?utm_source=github)
 
 #### [How We Created uCrop] (https://yalantis.com/blog/how-we-created-ucrop-our-own-image-cropping-library-for-android/)
